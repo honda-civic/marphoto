@@ -1,0 +1,30 @@
+marissa is learning
+orange
+apple
+pear
+banana
+kiwi
+apple
+banana
+orange
+apple
+pear
+banana
+kiwi
+apple
+banana
+marissa is learning
+orange
+apple
+pear
+banana
+kiwi
+apple
+banana
+orange
+apple
+pear
+banana
+kiwi
+apple
+banana
